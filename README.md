@@ -4,4 +4,4 @@
 
 It is an Unofficial Version.
 
-[Download Now](https://github.com/mdalmahmud023/CrDroid_daisy/releases/tag/2024)
+[Download Now](https://github.com/mdalmahmud023/CrDroid_daisy/releases/tag/crDroid(20240119))
